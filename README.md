@@ -1,2 +1,4 @@
-pip install aliyun-python-sdk-ecs
-pip install qcloudapi-sdk-python
+监控阿里云和腾讯云的服务器  
+根据配置文件配置账号和区域  
+七天之内到期和过期三天之内的会发邮件报警出来  
+
